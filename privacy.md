@@ -4,7 +4,7 @@
 
 ## 1. Introduzione
 
-Giardini Parlanti è un'app di guida culturale che accompagna i visitatori lungo i percorsi della Villa Reale di Monza. L'app funziona completamente offline e non raccoglie, trasmette né condivide dati personali degli utenti.
+Giardini Parlanti è un'app di guida culturale che accompagna i visitatori lungo tappe prestabilite attraverso i Giardini della Villa Reale di Monza. Una volta scaricata, l'app funziona completamente offline e non raccoglie, trasmette né condivide dati personali degli utenti. È possibile utilizzarla comunque da qualsiasi luogo, usufruendo di tutti i contenuti presenti.
 
 ## 2. Dati raccolti
 
